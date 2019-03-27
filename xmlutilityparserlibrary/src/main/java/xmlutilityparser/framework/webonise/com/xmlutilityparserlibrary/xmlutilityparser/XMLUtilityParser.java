@@ -12,7 +12,7 @@ import xmlutilityparser.framework.webonise.com.xmlutilityparserlibrary.xmlutilit
 
 public class XMLUtilityParser {
 
-    private XmlPullParserFactory mXMLPullParserFactory;
+    private  XmlPullParserFactory mXMLPullParserFactory;
     private XmlPullParser mXMLPullParser;
     private File mConfigFile;
     public ConfigueData configueData;
